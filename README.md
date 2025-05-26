@@ -9,3 +9,5 @@
 - 🔗 시퀀스 다이어그램 링크: https://app.diagrams.net/?splash=0#G1_HAYZrqIH_1s4d6eXvk6MEMvmhSoJiy6
 
 - 🔗 클래스 다이어그램 링크: https://app.diagrams.net/?src=about#G1exH9Z_1BSqpl9QbLKDRK0QXP3tAexsE0#%7B%22pageId%22%3A%22A3bGCzEoHVdOnNb77onn%22%7D
+
+- 🔗 ERD 링크: https://drawsql.app/teams/-2817/diagrams/concert
