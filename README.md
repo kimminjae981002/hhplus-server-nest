@@ -4,4 +4,6 @@
 
 > 📅 start_date: 2025.05.25
 
+> 📕 blog: https://velog.io/@minjae98/%ED%95%AD%ED%95%B4-%ED%94%8C%EB%9F%AC%EC%8A%A4-LITE-1%EA%B8%B0-%EC%84%9C%EB%B2%84-%EC%84%A4%EA%B3%842%EC%A3%BC%EC%B0%A8
+
 - 🔗 시퀀스 다이어그램 링크: https://app.diagrams.net/?splash=0#G1_HAYZrqIH_1s4d6eXvk6MEMvmhSoJiy6
