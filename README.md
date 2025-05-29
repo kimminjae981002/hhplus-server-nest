@@ -13,3 +13,5 @@
 - 🔗 ERD 링크: https://drawsql.app/teams/-2817/diagrams/concert
 
 - 🔗 상태 다이어그램 링크: https://drive.google.com/file/d/1fnEnKuSVkyyOskIAUCh_k77-fzJWKV_u/view?usp=sharing
+
+- 인프라 구성도는 어떻게 해야되는지 전혀 감이 안 잡힙니다...
