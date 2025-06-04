@@ -11,6 +11,7 @@ const common_1 = require("@nestjs/common");
 const typeorm_1 = require("@nestjs/typeorm");
 const config_1 = require("@nestjs/config");
 const database_config_1 = require("./database.config");
+const user_entity_1 = require("../user/entity/user.entity");
 let DatabaseModule = class DatabaseModule {
 };
 exports.DatabaseModule = DatabaseModule;
@@ -32,9 +33,10 @@ exports.DatabaseModule = DatabaseModule = __decorate([
                     username: configService.get("DB_USERNAME"),
                     password: configService.get("DB_PASSWORD"),
                     database: configService.get("DB_DATABASE"),
-                    synchronize: false,
+                    synchronize: true,
                     autoLoadEntities: true,
                     relationLoadStrategy: "join",
+                    entities: [user_entity_1.User],
                 }),
                 inject: [config_1.ConfigService],
             }),
